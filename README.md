@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Maesha's Portfolio
 
 A modern, responsive portfolio website showcasing artwork, design work, modeling, and books. Built with Bootstrap and enhanced with various JavaScript libraries for animations and interactions.
@@ -75,4 +74,3 @@ All rights reserved. This project and its contents are protected by copyright la
 =======
 # Maesha
 Maesha's Portfolio
->>>>>>> 5fc29cc5b367b1b4a148c9ded43115fc15a195ab
